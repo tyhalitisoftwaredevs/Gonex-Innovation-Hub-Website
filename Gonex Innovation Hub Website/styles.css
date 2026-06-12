@@ -1202,9 +1202,9 @@ textarea { resize: vertical; min-height: 130px; }
   .nav-links, .nav-actions .btn { display: none; }
   .hamburger { display: flex; }
 
-  .hero-inner { grid-template-columns: 1fr; gap: 40px; }
+  .hero-inner { grid-template-columns: 1fr; gap: 32px; }
   .hero-stats { grid-template-columns: repeat(3, 1fr); }
-  .hero-image { display: none; }
+  .hero-img { height: 260px; }
 
   .pillars-grid { grid-template-columns: 1fr; }
   .programs-grid { grid-template-columns: 1fr 1fr; }
